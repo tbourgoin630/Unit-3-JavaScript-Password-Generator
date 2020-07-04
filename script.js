@@ -8,6 +8,7 @@ function generate(){
     let values = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+"
 
     let password = "";
+    //
 
     //create for loop to choose password characters
     for(var i = 0; i <= complexity; i++){
